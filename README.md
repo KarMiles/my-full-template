@@ -1,3 +1,10 @@
+# My very first website
+
+Welcome! [Code Institute](http://codeinstitute.net)
+
+---
+Oryginal file:
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Karol Mileszko,
